@@ -81,19 +81,19 @@ namespace TheObservedPIN
     public class Kata
     {
 
-        public static List<IEnumerable<string>> _numbers = new List<IEnumerable<string>>
-    {
-        new List<string> {"0", "8"},
-        new List<string> {"1", "2", "4"},
-        new List<string> {"2", "1", "3", "5"},
-        new List<string> {"3", "2", "6"},
-        new List<string> {"4", "1", "5", "7"},
-        new List<string> {"5", "4", "2", "6", "8"},
-        new List<string> {"6", "3", "5", "9"},
-        new List<string> {"7", "4", "8"},
-        new List<string> {"8", "5", "7", "9", "0"},
-        new List<string> {"9", "6", "8"}
-    };
+    //    public static List<IEnumerable<string>> _numbers = new List<IEnumerable<string>>
+    //{
+    //    new List<string> {"0", "8"},
+    //    new List<string> {"1", "2", "4"},
+    //    new List<string> {"2", "1", "3", "5"},
+    //    new List<string> {"3", "2", "6"},
+    //    new List<string> {"4", "1", "5", "7"},
+    //    new List<string> {"5", "4", "2", "6", "8"},
+    //    new List<string> {"6", "3", "5", "9"},
+    //    new List<string> {"7", "4", "8"},
+    //    new List<string> {"8", "5", "7", "9", "0"},
+    //    new List<string> {"9", "6", "8"}
+    //};
 
         //public static List<string> GetPINs(string observed)
         //{
